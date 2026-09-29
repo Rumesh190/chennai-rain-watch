@@ -2,10 +2,7 @@ name: Chennai Rain Watch
 
 on:
   workflow_dispatch:
-  schedule:
-    # GitHub Actions cron is UTC.
-    # Every 15 minutes.
-    - cron: "*/15 * * * *"
+  
 
 permissions:
   contents: read
