@@ -1,0 +1,14 @@
+{
+  "Chennai City Nowcast": {
+    "hash": "11ff4afd97b877deaa0be3c64f024c9582c102c2e62f02c2540b5ed4ec3f8354",
+    "checked_at": "2026-09-29T13:04:00.995993+05:30",
+    "url": "https://mausam.imd.gov.in/chennaiums/district_nowcast_chnums.php",
+    "excerpt": "﻿ Chennai | IMD Districtwise Nowcast Urban Meteorological Services for Chennai India Meteorological Department Ministry of Earth Sciences Government of India Navigation Menu Home About Us Observation Meteo/Pollution Districtwise Rainfall Monitoring Schemes Forecast Station Forecast Weather/ Air Quality Forecast Heatwave/Coldwave Climatological Data Chennai(NUNGAMBAKKAM) Chennai(MEENAMBAKKAM) Nowcast City-Wise Station-wise Warning City-Wise Bulletin Bulletin City Nowcast - Chennai © Copyright 2022, Develop by IT Team IMD, India Meteorological Department Ministry of Earth Sciences, New Delhi, India"
+  },
+  "Chennai City Warning": {
+    "hash": "04e94348c5b673d07c37281aa282d46da031fd9d95cfb5b5e9748e956ebb4164",
+    "checked_at": "2026-09-29T13:04:00.995993+05:30",
+    "url": "https://mausam.imd.gov.in/chennaiums/district_warning_chnums.php",
+    "excerpt": "Chennai | IMD Districtwise Nowcast Urban Meteorological Services for Chennai India Meteorological Department Ministry of Earth Sciences Government of India Navigation Menu Home About Us Observation Meteo/Pollution Districtwise Rainfall Monitoring Schemes Forecast Station Forecast Weather/ Air Quality Forecast Heatwave/Coldwave Climatological Data Chennai(NUNGAMBAKKAM) Chennai(MEENAMBAKKAM) Nowcast City-Wise Station-wise Warning City-Wise Bulletin Bulletin City Warning - Chennai September 29, 2026 September 30, 2026 October 1, 2026 October 2, 2026 October 3, 2026 © Copyright 2022, Develop by IT Team IMD, India Meteorological Department Ministry of Earth Sciences, New Delhi, India"
+  }
+}
