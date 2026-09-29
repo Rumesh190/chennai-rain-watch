@@ -1,0 +1,10 @@
+name = "chennai-rain-watch"
+main = "src/index.js"
+compatibility_date = "2026-09-29"
+
+[[kv_namespaces]]
+binding = "WEATHER_STATE"
+id = "6f5c6c509f6940daa790249843c72923"
+
+[triggers]
+crons = ["30 2 * * *", "30 12 * * *"]
